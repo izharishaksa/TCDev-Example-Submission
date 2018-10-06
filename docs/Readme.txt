@@ -1,0 +1,1 @@
+All fields in class RPFeatureSelections in Model Class Diagram were renamed to follow naming convention.

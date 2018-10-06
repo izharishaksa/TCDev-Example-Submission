@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="IzhariIshakAksa" name="com.emc.recoverpoint.planning.AllTests" tests="124" time="2.103" timestamp="2013-01-05T19:44:15">
+  <properties>
+    <property name="component.version.major" value="1" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="netbeans.system_http_proxy" value="DIRECT" />
+    <property name="java.home" value="C:\Program Files (x86)\Java\jdk1.6.0_17\jre" />
+    <property name="dist_javadocs" value="build/dist/rp_planning_tool_models_and_exceptions-1.0.0/docs/javadocs" />
+    <property name="debug" value="off" />
+    <property name="build_distdir" value="build/dist" />
+    <property name="distfilename" value="rp_planning_tool_models_and_exceptions" />
+    <property name="component.version.micro" value="0" />
+    <property name="component.dist.jar" value="build/dist/rp_planning_tool_models_and_exceptions-1.0.0.jar" />
+    <property name="java.endorsed.dirs" value="C:\Program Files (x86)\Java\jdk1.6.0_17\jre\lib\endorsed" />
+    <property name="sun.java2d.noddraw" value="true" />
+    <property name="netbeans.hash.code" value="unique=NB_CND_GFMOD_GROOVY_JAVA_JC_MOB_PHP_WEBEE019e89946-5034-4e41-a71e-e44b0ec81662_50a69636-9e5e-46a5-b433-5d66ac7b32e9" />
+    <property name="sun.os.patch.level" value="Service Pack 1" />
+    <property name="design_dist.jar" value="rp_planning_tool_models_and_exceptions_1.0.0_design_dist.jar" />
+    <property name="javadocsdir" value="docs/javadocs" />
+    <property name="java.vendor.url" value="http://java.sun.com/" />
+    <property name="java.version" value="1.6.0_17" />
+    <property name="nb.show.statistics.ui" value="usageStatisticsEnabled" />
+    <property name="org.openide.major.version" value="IDE/1" />
+    <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi" />
+    <property name="netbeans.autoupdate.variant" value="" />
+    <property name="netbeans.buildnumber" value="201107282000" />
+    <property name="ant.project.invoked-targets" value="dev_submission" />
+    <property name="cobertura.datafile" value="log/cobertura.ser" />
+    <property name="user.name" value="Izhari Ishak Aksa" />
+    <property name="packagedir" value="com/emc/recoverpoint/planning" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="component_version" value="1.0.0" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="target_libdir" value="D:/TopCoder/Development/TOOLS/lib/tcs" />
+    <property name="jdk.home" value="C:\Program Files (x86)\Java\jdk1.6.0_17" />
+    <property name="reports" value="log/reports" />
+    <property name="component.jar" value="build/dist/lib/tcs/rp_planning_tool_models_and_exceptions/1.0.0/rp_planning_tool_models_and_exceptions.jar" />
+    <property name="sun.awt.keepWorkingSetOnMinimize" value="true" />
+    <property name="netbeans.autoupdate.version" value="1.23" />
+    <property name="netbeans.dirs" value="C:\Program Files (x86)\NetBeans 7.0\nb;C:\Program Files (x86)\NetBeans 7.0\ergonomics;C:\Program Files (x86)\NetBeans 7.0\ide;C:\Program Files (x86)\NetBeans 7.0\java;C:\Program Files (x86)\NetBeans 7.0\xml;C:\Program Files (x86)\NetBeans 7.0\apisupport;C:\Program Files (x86)\NetBeans 7.0\webcommon;C:\Program Files (x86)\NetBeans 7.0\websvccommon;C:\Program Files (x86)\NetBeans 7.0\enterprise;C:\Program Files (x86)\NetBeans 7.0\mobility;C:\Program Files (x86)\NetBeans 7.0\profiler;C:\Program Files (x86)\NetBeans 7.0\ruby;C:\Program Files (x86)\NetBeans 7.0\python;C:\Program Files (x86)\NetBeans 7.0\php;C:\Program Files (x86)\NetBeans 7.0\visualweb;C:\Program Files (x86)\NetBeans 7.0\soa;C:\Program Files (x86)\NetBeans 7.0\identity;C:\Program Files (x86)\NetBeans 7.0\uml;C:\Program Files (x86)\NetBeans 7.0\harness;C:\Program Files (x86)\NetBeans 7.0\cnd;C:\Program Files (x86)\NetBeans 7.0\dlight;C:\Program Files (x86)\NetBeans 7.0\groovy;C:\Program Files (x86)\NetBeans 7.0\extra;C:\Program Files (x86)\NetBeans 7.0\javafx;C:\Program Files (x86)\NetBeans 7.0\javacard" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="javamain" value="src/java/main" />
+    <property name="user.timezone" value="" />
+    <property name="component.version.build" value="1" />
+    <property name="org.openide.specification.version" value="6.2" />
+    <property name="path.separator" value=";" />
+    <property name="srcdir" value="src" />
+    <property name="netbeans.accept_license_class" value="org.netbeans.license.AcceptLicense" />
+    <property name="file.encoding" value="Cp1252" />
+    <property name="ant.project.default-target" value="dist" />
+    <property name="ant.junit.enabletestlistenerevents" value="true" />
+    <property name="ant.file" value="D:\TopCoder\Development\Contest\RP Planning Tool Models and Exceptions 1.0.0 30031915\rp_planning_tool_models_and_exceptions_1.0.0_dev_dist\build.xml" />
+    <property name="javasrc" value="src/java" />
+    <property name="instrumented.dir" value="build/instrumented" />
+    <property name="component.target" value="1.6" />
+    <property name="component.tests.jar" value="build/dist/lib/tcs/rp_planning_tool_models_and_exceptions_tests.jar" />
+    <property name="netbeans.autoupdate.language" value="in" />
+    <property name="java.io.tmpdir" value="C:\Users\IZHARI~1\AppData\Local\Temp\" />
+    <property name="user.language" value="in" />
+    <property name="manifest_file_path" value="build/dist/rp_planning_tool_models_and_exceptions-1.0.0/META-INF/" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="apple.laf.useScreenMenuBar" value="true" />
+    <property name="component.name" value="RP Planning Tool Models and Exceptions" />
+    <property name="verbose" value="no" />
+    <property name="manifest_file" value="build/dist/rp_planning_tool_models_and_exceptions-1.0.0/META-INF//MANIFEST.MF" />
+    <property name="java.vm.info" value="mixed mode, sharing" />
+    <property name="component_path" value="rp_planning_tool_models_and_exceptions/1.0.0" />
+    <property name="sun.desktop" value="windows" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="dist_coverage" value="build/dist/rp_planning_tool_models_and_exceptions-1.0.0/docs/coverage" />
+    <property name="builddir" value="build" />
+    <property name="netbeans.dynamic.classpath" value="C:\Users\Izhari Ishak Aksa\.netbeans\7.0\core\core.jar;C:\Users\Izhari Ishak Aksa\.netbeans\7.0\core\org-netbeans-upgrader.jar;C:\Users\Izhari Ishak Aksa\.netbeans\7.0\core\org-openide-filesystems.jar;C:\Users\Izhari Ishak Aksa\.netbeans\7.0\core\locale\core_ja.jar;C:\Users\Izhari Ishak Aksa\.netbeans\7.0\core\locale\core_nb.jar;C:\Users\Izhari Ishak Aksa\.netbeans\7.0\core\locale\core_nb_ja.jar;C:\Users\Izhari Ishak Aksa\.netbeans\7.0\core\locale\core_nb_pt_BR.jar;C:\Users\Izhari Ishak Aksa\.netbeans\7.0\core\locale\core_nb_ru.jar;C:\Users\Izhari Ishak Aksa\.netbeans\7.0\core\locale\core_nb_zh_CN.jar;C:\Users\Izhari Ishak Aksa\.netbeans\7.0\core\locale\core_pt_BR.jar;C:\Users\Izhari Ishak Aksa\.netbeans\7.0\core\locale\core_ru.jar;C:\Users\Izhari Ishak Aksa\.netbeans\7.0\core\locale\core_zh_CN.jar;C:\Users\Izhari Ishak Aksa\.netbeans\7.0\core\locale\org-netbeans-upgrader_ja.jar;C:\Users\Izhari Ishak Aksa\.netbeans\7.0\core\locale\org-netbeans-upgrader_pt_BR.jar;C:\Users\Izhari Ishak Aksa\.netbeans\7.0\core\locale\org-netbeans-upgrader_ru.jar;C:\Users\Izhari Ishak Aksa\.netbeans\7.0\core\locale\org-netbeans-upgrader_zh_CN.jar;C:\Users\Izhari Ishak Aksa\.netbeans\7.0\core\locale\org-openide-filesystems_ja.jar;C:\Users\Izhari Ishak Aksa\.netbeans\7.0\core\locale\org-openide-filesystems_pt_BR.jar;C:\Users\Izhari Ishak Aksa\.netbeans\7.0\core\locale\org-openide-filesystems_ru.jar;C:\Users\Izhari Ishak Aksa\.netbeans\7.0\core\locale\org-openide-filesystems_zh_CN.jar" />
+    <property name="guice.disable.misplaced.annotation.check" value="true" />
+    <property name="cobertura.dir" value="D:/TopCoder/Development/TOOLS/cobertura1.9.4.1" />
+    <property name="javac.encoding" value="UTF-8" />
+    <property name="netbeans.autoupdate.country" value="ID" />
+    <property name="ant.file.type." value="file" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="dist_lib" value="build/dist/lib/tcs" />
+    <property name="junit.jar" value="D:/TopCoder/Development/TOOLS/lib/third_party/junit/4.6/junit-4.6.jar" />
+    <property name="configdir" value="conf" />
+    <property name="build_tcsdistdir" value="build/dist/rp_planning_tool_models_and_exceptions-1.0.0" />
+    <property name="ant.file.type.Dependency Import" value="file" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.8.2 compiled on December 20 2010" />
+    <property name="netbeans.home" value="C:\Program Files (x86)\NetBeans 7.0\platform" />
+    <property name="netbeans.importclass" value="org.netbeans.upgrade.AutoUpgrade" />
+    <property name="dist_docs" value="build/dist/rp_planning_tool_models_and_exceptions-1.0.0/docs" />
+    <property name="test_reflib" value="test_reflib" />
+    <property name="testlogdir" value="log" />
+    <property name="apple.awt.graphics.UseQuartz" value="true" />
+    <property name="os.name" value="Windows 7" />
+    <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+    <property name="component.mainclass" value="" />
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
+    <property name="org.openide.version" value="deprecated" />
+    <property name="java.library.path" value="C:\Program Files (x86)\Java\jdk1.6.0_17\jre\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Common Files\NCR;C:\Program Files (x86)\Java\jdk1.6.0_17\bin;c:\Program Files\MingW\bin\;c:\Program Files\MingW\1.0\bin\;C:\Program Files (x86)\Common Files\Ulead Systems\MPEG;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\NetBeans 7.0\java\ant\bin" />
+    <property name="docpackage.jar" value="rp_planning_tool_models_and_exceptions_docs.jar" />
+    <property name="ant.java.version" value="1.6" />
+    <property name="basedir" value="D:\TopCoder\Development\Contest\RP Planning Tool Models and Exceptions 1.0.0 30031915\rp_planning_tool_models_and_exceptions_1.0.0_dev_dist" />
+    <property name="java.class.version" value="50.0" />
+    <property name="sun.awt.exception.handler" value="org.netbeans.core.startup.TopLogging$AWTHandler" />
+    <property name="ant.home" value="C:\Users\Izhari Ishak Aksa\.netbeans\7.0\ant" />
+    <property name="ant.file.My Checkstyle 53" value="D:\TopCoder\Development\TOOLS\checkstyle-5.3\checkstyle53.xml" />
+    <property name="sun.boot.library.path" value="C:\Program Files (x86)\Java\jdk1.6.0_17\jre\bin" />
+    <property name="ext_libdir" value="D:/TopCoder/Development/TOOLS/lib/third_party" />
+    <property name="ant.file." value="D:\TopCoder\Development\Contest\RP Planning Tool Models and Exceptions 1.0.0 30031915\rp_planning_tool_models_and_exceptions_1.0.0_dev_dist\build.xml" />
+    <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="user.variant" value="" />
+    <property name="build_targetclassdir" value="build/targetclasses" />
+    <property name="docsdir" value="docs" />
+    <property name="dev_dist.jar" value="rp_planning_tool_models_and_exceptions_1.0.0_dev_dist.jar" />
+    <property name="build.compiler.emacs" value="true" />
+    <property name="ant.project.name" value="" />
+    <property name="component.version.minor" value="0" />
+    <property name="java.vm.specification.version" value="1.0" />
+    <property name="component.bootclasspath" value="C:Program Files (x86)Javajdk1.6.0_17jrelib&#xd;t.jar" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86" />
+    <property name="build_javadocsdir" value="build/docs/javadocs" />
+    <property name="java.ext.dirs" value="C:\Program Files (x86)\Java\jdk1.6.0_17\jre\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+    <property name="os.version" value="6.1" />
+    <property name="ant.file.type.My Checkstyle 53" value="file" />
+    <property name="user.home" value="C:\Users\Izhari Ishak Aksa" />
+    <property name="javadoc.jar" value="javadocs.jar" />
+    <property name="libdir" value="D:/TopCoder/Development/TOOLS/lib" />
+    <property name="build_classdir" value="build/classes" />
+    <property name="org.xml.sax.driver" value="com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser" />
+    <property name="java.vm.vendor" value="Sun Microsystems Inc." />
+    <property name="cobertura.format" value="html" />
+    <property name="component.distfilename" value="rp_planning_tool_models_and_exceptions" />
+    <property name="component.package" value="com.emc.recoverpoint.planning" />
+    <property name="build_testclassdir" value="build/testClasses" />
+    <property name="package" value="com.emc.recoverpoint.planning" />
+    <property name="user.dir" value="C:\Program Files (x86)\NetBeans 7.0" />
+    <property name="component.packagedir" value="com/emc/recoverpoint/planning" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="ant.file.Dependency Import" value="D:\TopCoder\Development\Contest\RP Planning Tool Models and Exceptions 1.0.0 30031915\rp_planning_tool_models_and_exceptions_1.0.0_dev_dist\build-dependencies.xml" />
+    <property name="dist_docpackage" value="build/doc_package" />
+    <property name="java.vm.version" value="14.3-b01" />
+    <property name="java.class.path" value="D:\TopCoder\Development\Contest\RP Planning Tool Models and Exceptions 1.0.0 30031915\rp_planning_tool_models_and_exceptions_1.0.0_dev_dist\build\testClasses;D:\TopCoder\Development\TOOLS\lib\third_party\junit\4.6\junit-4.6.jar;D:\TopCoder\Development\Contest\RP Planning Tool Models and Exceptions 1.0.0 30031915\rp_planning_tool_models_and_exceptions_1.0.0_dev_dist\build\classes;D:\TopCoder\Development\Contest\RP Planning Tool Models and Exceptions 1.0.0 30031915\rp_planning_tool_models_and_exceptions_1.0.0_dev_dist\conf;D:\TopCoder\Development\Contest\RP Planning Tool Models and Exceptions 1.0.0 30031915\rp_planning_tool_models_and_exceptions_1.0.0_dev_dist\test_files;D:\TopCoder\Development\Contest\RP Planning Tool Models and Exceptions 1.0.0 30031915\rp_planning_tool_models_and_exceptions_1.0.0_dev_dist;C:\Program Files (x86)\Java\jre7\lib\ext\QTJava.zip;D:\TopCoder\Development\Contest\Portlet Scan Simulator Models and Misc Services 1.0.0 30031738\portlet_scan_simulator_models_and_misc_services_1.0.0_dev_dist;C:\Users\Izhari Ishak Aksa\.netbeans\7.0\ant\lib\ant-launcher.jar;C:\Users\Izhari Ishak Aksa\.netbeans\7.0\ant\lib\ant.jar;C:\Users\Izhari Ishak Aksa\.netbeans\7.0\ant\lib\ant-junit.jar;C:\Users\Izhari Ishak Aksa\.netbeans\7.0\ant\lib\ant-junit4.jar" />
+    <property name="dev_submission.jar" value="rp_planning_tool_models_and_exceptions_1.0.0_dev_submission.jar" />
+    <property name="os.arch" value="x86" />
+    <property name="checkstyle.config.dir" value="D:/TopCoder/Development/TOOLS/tcs_checkstyle_config" />
+    <property name="checkstyle.dir" value="D:/TopCoder/Development/TOOLS/checkstyle-5.3" />
+    <property name="netbeans.user" value="C:\Users\Izhari Ishak Aksa\.netbeans\7.0" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="ant.core.lib" value="C:\Users\Izhari Ishak Aksa\.netbeans\7.0\ant\lib\ant.jar" />
+    <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+    <property name="file.separator" value="\" />
+    <property name="java.runtime.version" value="1.6.0_17-b04" />
+    <property name="sun.boot.class.path" value="C:\Program Files (x86)\Java\jdk1.6.0_17\jre\lib\resources.jar;C:\Program Files (x86)\Java\jdk1.6.0_17\jre\lib\rt.jar;C:\Program Files (x86)\Java\jdk1.6.0_17\jre\lib\sunrsasign.jar;C:\Program Files (x86)\Java\jdk1.6.0_17\jre\lib\jsse.jar;C:\Program Files (x86)\Java\jdk1.6.0_17\jre\lib\jce.jar;C:\Program Files (x86)\Java\jdk1.6.0_17\jre\lib\charsets.jar;C:\Program Files (x86)\Java\jdk1.6.0_17\jre\classes" />
+    <property name="build_docsdir" value="build/docs" />
+    <property name="javadoc.locale" value="en_US" />
+    <property name="design_submission.jar" value="rp_planning_tool_models_and_exceptions_1.0.0_design_submission.jar" />
+    <property name="java.util.logging.config.class" value="org.netbeans.core.startup.TopLogging" />
+    <property name="user.country" value="ID" />
+    <property name="tcs_libdir" value="D:/TopCoder/Development/TOOLS/lib/tcs" />
+    <property name="component" value="RP Planning Tool Models and Exceptions" />
+    <property name="java_1_3_bootclasspath" value="C:Program FilesJavaSoftJRE1.3.1_10lib&#xd;t.jar" />
+    <property name="java.vendor" value="Sun Microsystems Inc." />
+    <property name="java_1_6_bootclasspath" value="C:Program Files (x86)Javajdk1.6.0_17jrelib&#xd;t.jar" />
+    <property name="java.specification.version" value="1.6" />
+    <property name="testfiles" value="test_files" />
+    <property name="javatests" value="src/java/tests" />
+    <property name="sun.arch.data.model" value="32" />
+  </properties>
+  <testcase classname="com.emc.recoverpoint.planning.models.BaseFilterTest" name="testCtor" time="0.0030" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BaseFilterTest" name="testGetPage" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BaseFilterTest" name="testSetPage" time="0.0010" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BaseFilterTest" name="testGetPageSize" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BaseFilterTest" name="testSetPageSize" time="0.087" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BaseFilterTest" name="testGetOrderBy" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BaseFilterTest" name="testSetOrderBy" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BaseFilterTest" name="testIsAscending" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BaseFilterTest" name="testSetAscending" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BaseWorkspaceEntityTest" name="testCtor" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BaseWorkspaceEntityTest" name="testGetId" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BaseWorkspaceEntityTest" name="testSetId" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BaseWorkspaceEntityTest" name="testGetName" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BaseWorkspaceEntityTest" name="testSetName" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BaseWorkspaceEntityTest" name="testGetStatus" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BaseWorkspaceEntityTest" name="testSetStatus" time="0.0010" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BaseWorkspaceEntityTest" name="testGetLastModifiedDate" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BaseWorkspaceEntityTest" name="testSetLastModifiedDate" time="0.0010" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPApplicationConfigurationTest" name="testCtor" time="0.0010" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPApplicationConfigurationTest" name="testGetApplicationName" time="0.095" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPApplicationConfigurationTest" name="testSetApplicationName" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPApplicationConfigurationTest" name="testGetProductType" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPApplicationConfigurationTest" name="testSetProductType" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPApplicationConfigurationTest" name="testGetApplicationTotalVolumesSize" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPApplicationConfigurationTest" name="testSetApplicationTotalVolumesSize" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPApplicationConfigurationTest" name="testGetApplicationAverageChangeRate" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPApplicationConfigurationTest" name="testSetApplicationAverageChangeRate" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPApplicationConfigurationTest" name="testGetRequiredDataRollbackWindow" time="0.096" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPApplicationConfigurationTest" name="testSetRequiredDataRollbackWindow" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPApplicationConfigurationTest" name="testGetStorageSpaceForRollbackInformation" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPApplicationConfigurationTest" name="testSetStorageSpaceForRollbackInformation" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPApplicationOverviewTest" name="testCtor" time="0.0010" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPApplicationOverviewTest" name="testGetApplicationName" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPApplicationOverviewTest" name="testSetApplicationName" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPApplicationOverviewTest" name="testGetRequiredProtectionWindow" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPApplicationOverviewTest" name="testSetRequiredProtectionWindow" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPApplicationOverviewTest" name="testGetAvailableProtectionWindow" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPApplicationOverviewTest" name="testSetAvailableProtectionWindow" time="0.0010" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPApplicationOverviewTest" name="testGetRequiredStorageSpaceForRollback" time="0.0010" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPApplicationOverviewTest" name="testSetRequiredStorageSpaceForRollback" time="0.081" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPApplicationOverviewTest" name="testGetAvailableStorageSpaceForRollback" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPApplicationOverviewTest" name="testSetAvailableStorageSpaceForRollback" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPApplicationOverviewTest" name="testGetRequiredBandwidth" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPApplicationOverviewTest" name="testSetRequiredBandwidth" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPSiteOverviewTest" name="testCtor" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPSiteOverviewTest" name="testGetTotalRequiredBandwidthPerSite" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPSiteOverviewTest" name="testSetTotalRequiredBandwidthPerSite" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPSiteOverviewTest" name="testGetTotalRequiredStorageSpace" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPSiteOverviewTest" name="testSetTotalRequiredStorageSpace" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPSiteOverviewTest" name="testGetTotalReplicatedData" time="0.0010" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPSiteOverviewTest" name="testSetTotalReplicatedData" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPSiteOverviewTest" name="testGetTotalApplicationsGeneratedData" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPSiteOverviewTest" name="testSetTotalApplicationsGeneratedData" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPSiteOverviewTest" name="testGetFirstTimeSiteSync" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPSiteOverviewTest" name="testSetFirstTimeSiteSync" time="0.0010" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPSizingRequestTest" name="testCtor" time="0.0010" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPSizingRequestTest" name="testGetRequestID" time="0.094" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPSizingRequestTest" name="testSetRequestID" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPSizingRequestTest" name="testGetApplicationConfigurations" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPSizingRequestTest" name="testSetApplicationConfigurations" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPSizingRequestTest" name="testGetInterSiteLinkBandwidth" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPSizingRequestTest" name="testSetInterSiteLinkBandwidth" time="0.0010" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPSizingRequestTest" name="testGetRpFeatureSelections" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPSizingRequestTest" name="testSetRpFeatureSelections" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPSizingResultTest" name="testCtor" time="0.0010" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPSizingResultTest" name="testGetRecommendedRPAppliances" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPSizingResultTest" name="testSetRecommendedRPAppliances" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPSizingResultTest" name="testGetSiteOverview" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPSizingResultTest" name="testSetSiteOverview" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPSizingResultTest" name="testGetApplicationOverviews" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.BasicRPSizingResultTest" name="testSetApplicationOverviews" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.PagedResultTest" name="testCtor" time="0.0010" />
+  <testcase classname="com.emc.recoverpoint.planning.models.PagedResultTest" name="testGetTotalPages" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.PagedResultTest" name="testSetTotalPages" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.PagedResultTest" name="testGetTotalCount" time="0.081" />
+  <testcase classname="com.emc.recoverpoint.planning.models.PagedResultTest" name="testSetTotalCount" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.PagedResultTest" name="testGetCurrentPage" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.PagedResultTest" name="testSetCurrentPage" time="0.0010" />
+  <testcase classname="com.emc.recoverpoint.planning.models.PagedResultTest" name="testGetItems" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.PagedResultTest" name="testSetItems" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.RPFeatureSelectionsTest" name="testCtor" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.RPFeatureSelectionsTest" name="testIsDistributedConsistencyGroupsSelected" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.RPFeatureSelectionsTest" name="testSetDistributedConsistencyGroupsSelected" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.RPFeatureSelectionsTest" name="testIsDataCompressionSelected" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.RPFeatureSelectionsTest" name="testSetDataCompressionSelected" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.RPFeatureSelectionsTest" name="testIsDeduplicationSelected" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.RPFeatureSelectionsTest" name="testSetDeduplicationSelected" time="0.0010" />
+  <testcase classname="com.emc.recoverpoint.planning.models.RPFeatureSelectionsTest" name="testIsSnapshotConsolidationSelected" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.RPFeatureSelectionsTest" name="testSetSnapshotConsolidationSelected" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.RPFeatureSelectionsTest" name="testIsJournalCompressionSelected" time="0.097" />
+  <testcase classname="com.emc.recoverpoint.planning.models.RPFeatureSelectionsTest" name="testSetJournalCompressionSelected" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.RawDataItemTest" name="testCtor" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.RawDataItemTest" name="testInheritance" time="0.0010" />
+  <testcase classname="com.emc.recoverpoint.planning.models.RawDataItemTest" name="testGetWorkspaceId" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.RawDataItemTest" name="testSetWorkspaceId" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.RawDataItemTest" name="testGetDataType" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.RawDataItemTest" name="testSetDataType" time="0.097" />
+  <testcase classname="com.emc.recoverpoint.planning.models.RawDataItemTest" name="testGetContent" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.RawDataItemTest" name="testSetContent" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.RawDataItemFilterTest" name="testCtor" time="0.0010" />
+  <testcase classname="com.emc.recoverpoint.planning.models.RawDataItemFilterTest" name="testGetName" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.RawDataItemFilterTest" name="testSetName" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.RawDataItemFilterTest" name="testGetStatus" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.RawDataItemFilterTest" name="testSetStatus" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.RawDataItemFilterTest" name="testInheritance" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.RawDataItemFilterTest" name="testGetDataType" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.RawDataItemFilterTest" name="testSetDataType" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.WorkspaceTest" name="testCtor" time="0.0010" />
+  <testcase classname="com.emc.recoverpoint.planning.models.WorkspaceTest" name="testInheritance" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.WorkspaceTest" name="testGetLastCorrelatedDate" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.WorkspaceTest" name="testSetLastCorrelatedDate" time="0.0010" />
+  <testcase classname="com.emc.recoverpoint.planning.models.WorkspaceFilterTest" name="testCtor" time="0.0010" />
+  <testcase classname="com.emc.recoverpoint.planning.models.WorkspaceFilterTest" name="testGetName" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.WorkspaceFilterTest" name="testSetName" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.WorkspaceFilterTest" name="testGetStatus" time="0.0010" />
+  <testcase classname="com.emc.recoverpoint.planning.models.WorkspaceFilterTest" name="testSetStatus" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.models.WorkspaceFilterTest" name="testInheritance" time="0.0010" />
+  <testcase classname="com.emc.recoverpoint.planning.services.RPPlanningToolConfigurationExceptionTest" name="testInheritance" time="0.0010" />
+  <testcase classname="com.emc.recoverpoint.planning.services.RPPlanningToolConfigurationExceptionTest" name="testCtor1" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.services.RPPlanningToolConfigurationExceptionTest" name="testCtor2" time="0.0" />
+  <testcase classname="com.emc.recoverpoint.planning.services.RPPlanningToolServiceExceptionTest" name="testInheritance" time="0.0010" />
+  <testcase classname="com.emc.recoverpoint.planning.services.RPPlanningToolServiceExceptionTest" name="testCtor1" time="0.0010" />
+  <testcase classname="com.emc.recoverpoint.planning.services.RPPlanningToolServiceExceptionTest" name="testCtor2" time="0.0010" />
+  <testcase classname="com.emc.recoverpoint.planning.Demo" name="testDemo" time="0.0" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
