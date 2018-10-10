@@ -1,21 +1,21 @@
 /*
  * Copyright (C) 2013 TopCoder Inc., All Rights Reserved.
  */
-package com.emc.recoverpoint.planning.services;
+package com.emc.recoverpoint.planning;
 
-import com.emc.recoverpoint.planning.RPPlanningToolServiceException;
+import com.emc.recoverpoint.planning.RPPlanningToolConfigurationException;
 import junit.framework.TestCase;
 import org.junit.Test;
 
 /**
  * <p>
- * Unit test of {@link RPPlanningToolServiceException} class.
+ * Unit test for {@link RPPlanningToolConfigurationException} class.
  * </p>
  *
  * @author TCSDEVELOPER
  * @version 1.0
  */
-public class RPPlanningToolServiceExceptionTest extends TestCase {
+public class RPPlanningToolConfigurationExceptionTest extends TestCase {
 
     /**
      * Represents a detail message.
@@ -27,21 +27,21 @@ public class RPPlanningToolServiceExceptionTest extends TestCase {
     private static final Throwable CAUSE = new Exception("UnitTests");
 
     /**
-     * <code>RPPlanningToolServiceException</code> should be a subclass of <code>Exception</code>.
+     * <code>RPPlanningToolConfigurationException</code> should be a subclass of <code>RuntimeException</code>.
      */
     @Test
     public void testInheritance() {
-        assertTrue("RPPlanningToolServiceException should be a subclass of Exception.",
-                RPPlanningToolServiceException.class.getSuperclass() == Exception.class);
+        assertTrue("RPPlanningToolConfigurationException should be a subclass of RuntimeException.",
+                RPPlanningToolConfigurationException.class.getSuperclass() == RuntimeException.class);
     }
 
     /**
-     * Tests accuracy of <code>RPPlanningToolServiceException(String)</code> constructor.
+     * Tests accuracy of <code>RPPlanningToolConfigurationException(String)</code> constructor.
      * Instance should be correctly created.
      */
     @Test
     public void testCtor1() {
-        RPPlanningToolServiceException exception = new RPPlanningToolServiceException(DETAIL_MESSAGE);
+        RPPlanningToolConfigurationException exception = new RPPlanningToolConfigurationException(DETAIL_MESSAGE);
 
         // Verify the detail error message
         assertEquals("Detailed error message should be correct.", DETAIL_MESSAGE, exception.getMessage());
@@ -50,12 +50,13 @@ public class RPPlanningToolServiceExceptionTest extends TestCase {
     }
 
     /**
-     * Tests accuracy of <code>RPPlanningToolServiceException(String, Throwable)</code> constructor.
+     * Tests accuracy of <code>RPPlanningToolConfigurationException(String, Throwable)</code> constructor.
      * Instance should be correctly created.
      */
     @Test
     public void testCtor2() {
-        RPPlanningToolServiceException exception = new RPPlanningToolServiceException(DETAIL_MESSAGE, CAUSE);
+        RPPlanningToolConfigurationException exception = new RPPlanningToolConfigurationException(DETAIL_MESSAGE,
+                CAUSE);
 
         // Verify the detail error message
         assertEquals("Detailed error message should be correct.", DETAIL_MESSAGE, exception.getMessage());

@@ -16,8 +16,6 @@ import com.emc.recoverpoint.planning.models.RawDataItemFilterTest;
 import com.emc.recoverpoint.planning.models.RawDataItemTest;
 import com.emc.recoverpoint.planning.models.WorkspaceFilterTest;
 import com.emc.recoverpoint.planning.models.WorkspaceTest;
-import com.emc.recoverpoint.planning.services.RPPlanningToolConfigurationExceptionTest;
-import com.emc.recoverpoint.planning.services.RPPlanningToolServiceExceptionTest;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
